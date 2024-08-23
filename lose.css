@@ -1,0 +1,10 @@
+body{
+    background-image: url("./lose.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 50cap;
+}
+.try h1{
+    color: white;
+    text-align: center;
+}

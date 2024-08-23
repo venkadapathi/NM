@@ -1,0 +1,10 @@
+body{
+    background-image: url("./battle.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 50cap;
+}
+.cons h1{
+    color: white;
+    text-align: center;
+}
